@@ -1,0 +1,10 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.top{
+    text-align: center;
+    background-color: pink;
+    border-radius: 10px;
+    height: 200px;
+}
