@@ -27,3 +27,9 @@ body{
     font-size: 20px;
     font-weight: bold;
 }
+
+.red{
+    width: 40px;
+    height: 40px;
+    padding-left: 350px;
+}
